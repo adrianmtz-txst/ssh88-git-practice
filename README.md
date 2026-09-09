@@ -1,4 +1,4 @@
 # Developer Profile
-- **Name:** Adrian
+- **Developer:** Adrian
 - **Hobby:** Guitar
 - **Preferred Development Tool:** VS Code
