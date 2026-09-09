@@ -1,4 +1,4 @@
 # Developer Profile
-- **Developer:** Adrian
+- **Developer:** Adrian (adrianmtz-txst)
 - **Hobby:** Guitar
 - **Preferred Development Tool:** VS Code
